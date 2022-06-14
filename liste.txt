@@ -1,1 +1,10 @@
-±«œŠË
+mousqueton	Mousqueton
+gants	Gants dâ€™intervention
+brassard	Brassard de sÃ©curitÃ©
+menottes	Porte menottes
+cyno	Bandeau agent cynophile
+talky	Talkies walkies
+lampe	Lampe Torche
+kit	Kit oreillette
+taser	Tasers
+lacrymo	Bombes lacrymogÃ¨nes

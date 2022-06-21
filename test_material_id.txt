@@ -1,2 +1,0 @@
-equipementtest1	Equipement Test 1
-equipementtest2	Equipement Test 2

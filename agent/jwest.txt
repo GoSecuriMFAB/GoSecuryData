@@ -7,4 +7,3 @@ taser
 lacrymo
 kit
 menottes
-brassard
